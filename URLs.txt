@@ -1,0 +1,3 @@
+Handling Arguments in URL in Arduino:-
+
+https://tttapa.github.io/ESP8266/Chap10%20-%20Simple%20Web%20Server.html
